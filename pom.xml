@@ -8,7 +8,8 @@
     <artifactId>novel-cloud</artifactId>
     <version>1.3.0</version>
     <modules>
-
+        <module>novel-common</module>
+        <module>novel-gateway</module>
     </modules>
     <packaging>pom</packaging>
 
