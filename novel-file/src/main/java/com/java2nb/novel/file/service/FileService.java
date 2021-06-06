@@ -7,7 +7,7 @@ import java.io.File;
  * 文件服务接口
  * @author Borber
  * @version 1.0
- * @since 2021/6/2
+ * @since 2021/6/6
  */
 public interface FileService {
 

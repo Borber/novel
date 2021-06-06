@@ -15,7 +15,7 @@ import java.util.Set;
  * 自定义注释生成器生成器
  * @author Borber
  * @version 1.0
- * @since 2021/5/27
+ * @since 2021/6/5
  */
 public class CommentGenerator extends DefaultCommentGenerator {
     private boolean addRemarkComments = false;

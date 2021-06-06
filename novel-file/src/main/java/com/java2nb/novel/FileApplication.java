@@ -9,7 +9,7 @@ import org.springframework.scheduling.annotation.EnableScheduling;
  * 文件微服务启动器
  * @author Borber
  * @version 1.0
- * @since 2021/6/2
+ * @since 2021/6/6
  */
 @SpringBootApplication
 @EnableFeignClients

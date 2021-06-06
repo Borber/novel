@@ -8,7 +8,7 @@ import org.springframework.cloud.openfeign.FeignClient;
  * 小说服务Feign客户端
  * @author Borber
  * @version 1.0
- * @since 2021/6/2
+ * @since 2021/6/6
  */
 @FeignClient(value = "book-service")
 public interface BookFeignClient extends BookApi {
