@@ -17,6 +17,9 @@
         <module>novel-pay</module>
         <module>novel-search</module>
         <module>novel-user</module>
+        <module>novel-home</module>
+        <module>novel-monitor</module>
+        <module>novel-news</module>
     </modules>
     <packaging>pom</packaging>
 
