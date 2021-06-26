@@ -10,6 +10,8 @@
     <modules>
         <module>novel-common</module>
         <module>novel-gateway</module>
+        <module>novel-author</module>
+        <module>novel-book</module>
         <module>novel-gen</module>
         <module>novel-file</module>
     </modules>
