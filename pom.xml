@@ -14,6 +14,9 @@
         <module>novel-book</module>
         <module>novel-gen</module>
         <module>novel-file</module>
+        <module>novel-pay</module>
+        <module>novel-search</module>
+        <module>novel-user</module>
     </modules>
     <packaging>pom</packaging>
 
